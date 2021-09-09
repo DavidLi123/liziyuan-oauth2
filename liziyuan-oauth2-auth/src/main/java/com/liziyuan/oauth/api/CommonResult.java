@@ -1,4 +1,4 @@
-package com.liziyuan.oauth.config.api;
+package com.liziyuan.oauth.api;
 
 /**
  * 通用返回对象

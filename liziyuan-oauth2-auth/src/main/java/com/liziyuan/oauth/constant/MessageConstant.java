@@ -1,4 +1,4 @@
-package com.liziyuan.oauth.config.constant;
+package com.liziyuan.oauth.constant;
 
 /**
  * 消息常量

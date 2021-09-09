@@ -1,4 +1,4 @@
-package com.liziyuan.oauth.config.api;
+package com.liziyuan.oauth.api;
 
 /**
  * 封装API的错误码

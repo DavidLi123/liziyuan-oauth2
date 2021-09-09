@@ -1,4 +1,4 @@
-package com.liziyuan.oauth.config.api;
+package com.liziyuan.oauth.api;
 
 /**
  * 枚举了一些常用API操作码
